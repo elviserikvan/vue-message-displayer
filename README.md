@@ -14,6 +14,7 @@ It transfers a message from one componet to the other while using nodejs to supp
 	- webpack
 	- express
 	- babel
+	- Bootstrap
 	- nodemon
 
 ## Screenshosts
