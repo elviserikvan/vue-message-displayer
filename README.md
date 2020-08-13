@@ -15,3 +15,7 @@ It transfers a message from one componet to the other while using nodejs to supp
 	- express
 	- babel
 	- nodemon
+
+## Screenshosts
+![Screenshot1](https://github.com/elviserikvan/vue-message-displayer/blob/master/project-screenshots/Screenshot-1.png)
+![Screenshot2](https://github.com/elviserikvan/vue-message-displayer/blob/master/project-screenshots/Screenshot-2.png)
