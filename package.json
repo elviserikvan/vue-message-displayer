@@ -1,0 +1,30 @@
+{
+  "name": "vue_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "dev-watch": "webpack --mode development --watch",
+    "nodemon": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "babel-loader": "^8.1.0",
+    "nodemon": "^2.0.4",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.3",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
